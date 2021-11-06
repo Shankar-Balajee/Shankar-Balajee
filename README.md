@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shankar-Balajee
-- 👀 I’m interested in Physics,Coding,Astrophysics and Math
-- 🌱 I’m currently learning python and object oriented software.
+- 👀 I’m interested in Physics,Coding,Astrophysics and Math.
+- 🌱 I’m currently learning python and working on object oriented programming software.
 - 💞️ I’m looking to meet new people ,learn and collaborate.
-- 📫 How to reach me -email:```ssbalajee08@gmail.com```; ```Monster0811#6635``` on Discord.
+- 📫 How to reach me -email in my profile description; ```Monster0811#6635``` on Discord.I like meeting new people,hit me up :).
 
 <!---
 Shankar-Balajee/Shankar-Balajee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
