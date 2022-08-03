@@ -1,4 +1,14 @@
 
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+    ### Hi there 👋
+    * 👂 My name is Shankar Balajee
+    * 👩 Pronouns: He/Him
+    * 🔭 I’m currently working on Deep Learning
+    * 🌱 I’m currently learning Programming, Algorithmic Framework and Deep Learning.
+    * 📫 How to reach me: cs21b075@smail.iitm.ac.in
+</details>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shankar-Balajee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -7,11 +17,16 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar-Balajee&theme=radical"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shankar-Balajee&theme=radical"/>
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shankar-Balajee&theme=radical"/>
 
 
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</details>
+
+
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shankar-balajee-sambasivam-8338b8227/)
 <!---
