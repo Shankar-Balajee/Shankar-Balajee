@@ -1,7 +1,7 @@
 
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    ### Hi there 👋
+    <h5>Hi there 👋</h5>
     <ul>
     <li> 👂 My name is Shankar Balajee
     <li> 👩 Pronouns: He/Him
@@ -10,7 +10,9 @@
     <li> 📫 How to reach me: cs21b075@smail.iitm.ac.in
     </ul>
 </details>
-
+<br>
+<br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shankar-Balajee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
