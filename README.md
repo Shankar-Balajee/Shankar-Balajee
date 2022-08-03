@@ -2,11 +2,13 @@
 <details>
     <summary><b>✨About Me</b></summary><br/>
     ### Hi there 👋
-    * 👂 My name is Shankar Balajee
-    * 👩 Pronouns: He/Him
-    * 🔭 I’m currently working on Deep Learning
-    * 🌱 I’m currently learning Programming, Algorithmic Framework and Deep Learning.
-    * 📫 How to reach me: cs21b075@smail.iitm.ac.in
+    <ul>
+    <li> 👂 My name is Shankar Balajee
+    <li> 👩 Pronouns: He/Him
+    <li> 🔭 I’m currently working on Deep Learning
+    <li> 🌱 I’m currently learning Programming, Algorithmic Framework and Deep Learning.
+    <li> 📫 How to reach me: cs21b075@smail.iitm.ac.in
+    </ul>
 </details>
 
 
