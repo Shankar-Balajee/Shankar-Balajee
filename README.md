@@ -12,7 +12,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width = "10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" ></code>
+<code><img width ="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" ></code>
           
 <br>
 
