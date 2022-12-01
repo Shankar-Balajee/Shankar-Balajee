@@ -10,9 +10,6 @@
     <li> 📫 How to reach me: cs21b075@smail.iitm.ac.in
     </ul>
 </details>
-<br>
-<br>
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shankar-Balajee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
